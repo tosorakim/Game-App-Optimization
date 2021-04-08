@@ -5,9 +5,7 @@ I'd like to share the small dataset that you can practice how to optimize the mo
 
 Let's think about it if you are working at a game company and you are a game performance marketer which channel should be optimized ASAP? You could practice following the below KPI. Good Luck!
 
-# Exploratory Analysis
-To begin this exploratory analysis, first download the code and check the data information.
-
+# Describe the data
 =====Subject=====</br>
 [Question] Optimize the app following the KPI</br>
 (1)day1 retention rate below 10%</br>
@@ -60,6 +58,8 @@ aflevel8achieved: achieved level8</br>
 afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 rate purchaserate: purchase rate</br>
 day1_retention: day 1 retention rate</br>
 
+# Exploratory Analysis
+To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made.
 # Conclusion
 KPI Option1 : day1_retention
 As you analyzed the data, you could see the Channel A, C, D, E, F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization
