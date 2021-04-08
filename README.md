@@ -1,5 +1,5 @@
 # Introduction
-It's an raw data of iOS game app. It's included postback events which in-app game environment.
+It's the raw data of iOS game app. It's included postback events which in-app game environment.
 
 # Description of data
 =====Subject=====</br>
