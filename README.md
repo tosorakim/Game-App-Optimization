@@ -9,9 +9,9 @@ I'd like to share the small dataset that you can practice how to optimize the mo
 Let's think about it if you are working at a game company and you are a game performance marketer which channel should be optimized ASAP? You could practice following the below KPI. Good Luck!
 
 # Exploratory Analysis
-To begin this exploratory analysis, first download the cod
+To begin this exploratory analysis, first download the code
 
-=====Subject=====
+=====Subject=====</br>
 [Question] Optimize the app following the KPI
 (1)day1 retention rate below 10%
 (2)nru(new registered users) below 30%
