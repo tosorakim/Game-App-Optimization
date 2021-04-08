@@ -1,5 +1,5 @@
 # Introduction
-It's an iOS game app raw data. It's included postback events which in-app game environment. You can get the real mobile game raw data!
+It's an raw data of iOS game app. It's included postback events which in-app game environment. You can get the real raw data of mobile game!
 
 I'd like to share the small dataset that you can practice how to optimize the mobile game using in-app data. I believe that it may help you to practice if you're just a beginner or never seen such a dataset before. You could simulate how to optimize the in-app game data. Which channel is good or bad.
 
