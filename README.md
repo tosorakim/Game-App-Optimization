@@ -1,6 +1,3 @@
-# game-app-optimization
-How to optimize the game app
-
 # Introduction
 It's an iOS game app raw data. It's included postback events which in-app game environment. You can get the real mobile game raw data!
 
