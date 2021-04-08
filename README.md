@@ -59,3 +59,11 @@ aflevel5achieved: achieved level5</br>
 aflevel8achieved: achieved level8</br>
 afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 rate purchaserate: purchase rate</br>
 day1_retention: day 1 retention rate</br>
+
+# Conclusion
+KPI Option1 : day1_retention
+As you analyzed the data, you could see the Channel A, C, D, E, F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization
+
+KPI Option 2 : NRU(New Registered Users)
+You could see the Channel A, B were not following KPI #2(nru below 30%). On the other hand, the channel C, D, E, F, G are satisfied the KPI so that they need to be optimization
+
