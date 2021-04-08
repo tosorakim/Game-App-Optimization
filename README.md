@@ -65,3 +65,6 @@ You could see the Channel A, B were not following KPI #2(nru below 30%). On the 
 
 # Conclusion
 Except for channel A, other channels B, C, D, E, F, and G are needed to be optimized following the KPI. It's around 76.7% of total installs. (Total_install_pie.png) In order to reduce this ratio, you would be better channel G with the most installs (number of cases) will be optimized first, followed by channels F, D, E, B, and C in order.
+
+# Environment
+Python, Linux, Hadoop, SQL, and MySQL
