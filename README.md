@@ -12,54 +12,53 @@ Let's think about it if you are working at a game company and you are a game per
 To begin this exploratory analysis, first download the code
 
 =====Subject=====</br>
-[Question] Optimize the app following the KPI
-(1)day1 retention rate below 10%
-(2)nru(new registered users) below 30%
-
-[Information of App]
-Publisher: -
-Category: Game
-OS: iOS
-Language: Korean
-Age: 12+
-Price: Free
-
-[Information of Event Postback]
-open: app open
-afcompleteregistration: registration
-jointheguild: join the guild
-purchase: purchase
-aflevel5achieved: achieved level 5 aflevel8achieved: achieved level 8
-aflevel10achieved: achieved level 10 aflevel15achieved: achieved level 15
-aflevel20achieved: achieved level 20 autoplay : after level5, it’s allowed autoplay
-
-=====Collect data(.csv file)=====
-
-Raw data
-(1)channel_event.csv
-(2)d1.csv
-
-Pivoting data (using raw data)
-(1)gagong.csv
-
-[Information of channel_event.csv]
-event: postbacked event name
-channel: channel name
-country: country
-language: language
-os: mobile phone operating system
-device: mobile device
-
-[Information of d1.csv]
-channel: channel name
-install: counted installs
-day1: day 1 retention
-
-[Information of gagong.csv]
-channel: channel name
-install: counted installs
-afcompleteregistration: once a user completed the registration it's pushed(counted)
-aflevel5achieved: achieved level5
-aflevel8achieved: achieved level8
-afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 rate purchaserate: purchase rate
-day1_retention: day 1 retention rate
+[Question] Optimize the app following the KPI</br>
+(1)day1 retention rate below 10%</br>
+(2)nru(new registered users) below 30%</br>
+</br>
+[Information of App]</br>
+Publisher: -</br>
+Category: Game</br>
+OS: iOS</br>
+Language: Korean</br>
+Age: 12+</br>
+Price: Free</br>
+</br>
+[Information of Event Postback]</br>
+open: app open</br>
+afcompleteregistration: registration</br>
+jointheguild: join the guild</br>
+purchase: purchase</br>
+aflevel5achieved: achieved level 5 aflevel8achieved: achieved level 8</br>
+aflevel10achieved: achieved level 10 aflevel15achieved: achieved level 15</br>
+aflevel20achieved: achieved level 20 autoplay : after level5, it’s allowed autoplay</br>
+</br>
+=====Collect data(.csv file)=====</br>
+Raw data</br>
+(1)channel_event.csv</br>
+(2)d1.csv</br>
+</br>
+Pivoting data (using raw data)</br>
+(1)gagong.csv</br>
+</br>
+[Information of channel_event.csv]</br>
+event: postbacked event name</br>
+channel: channel name</br>
+country: country</br>
+language: language</br>
+os: mobile phone operating system</br>
+device: mobile device</br>
+</br>
+[Information of d1.csv]</br>
+channel: channel name</br>
+install: counted installs</br>
+day1: day 1 retention</br>
+</br>
+[Information of gagong.csv]</br>
+channel: channel name</br>
+install: counted installs</br>
+afcompleteregistration: once a user completed the registration it's pushed(counted)</br>
+aflevel5achieved: achieved level5</br>
+aflevel8achieved: achieved level8</br>
+afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 rate purchaserate: purchase rate</br>
+day1_retention: day 1 retention rate</br>
