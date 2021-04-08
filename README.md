@@ -68,4 +68,4 @@ KPI Option 2 : NRU(New Registered Users)
 You could see the Channel A, B were not following KPI #2(nru below 30%). On the other hand, the channel C, D, E, F, G are satisfied the KPI so that they need to be optimization
 
 # Conclusion
-Except for channel A, other channels B, C, D, E, F, G are needed to be optimized following the KPI. It's around 76.7% of total installs. It needs urgently optimize the channel if you are not rich. (joke) In order to reduce this ratio, you would be better 
+Except for channel A, other channels B, C, D, E, F, G are needed to be optimized following the KPI. It's around 76.7% of total installs. In order to reduce this ratio, you would be better channel G with the most installs (number of cases) will be optimized first, followed by channels F, D, E, B, and C in order.
