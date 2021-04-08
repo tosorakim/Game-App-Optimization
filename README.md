@@ -40,40 +40,24 @@ Pivoting data (using raw data)
 
 [Information of channel_event.csv]
 event: postbacked event name
-
 channel: channel name
-
 country: country
-
 language: language
-
 os: mobile phone operating system
-
 device: mobile device
 
 
 [Information of d1.csv]
-
 channel: channel name
-
 install: counted installs
-
 day1: day 1 retention
 
-
 [Information of gagong.csv]
-
 channel: channel name
-
 install: counted installs
-
 afcompleteregistration: once a user completed the registration it's pushed(counted)
-
 aflevel5achieved: achieved level5
-
 aflevel8achieved: achieved level8
-
 afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 rate purchaserate: purchase rate
-
 day1_retention: day 1 retention rate
 
