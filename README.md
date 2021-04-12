@@ -5,8 +5,8 @@ It's the raw data of iOS game app. It's included postback events which in-app ga
 Python, Linux, Hadoop, SQL, and MySQL
 
 # Description of data
-=====Subject=====</br>
-[Question] Optimize the app following the KPI</br>
+=====KPI=====</br>
+Optimize the app following the KPI</br>
 (1)day1 retention rate below 10%</br>
 (2)nru(new registered users) below 30%</br>
 </br>
@@ -58,18 +58,18 @@ afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 ra
 day1_retention: day 1 retention rate</br>
 
 # Exploratory Analysis
-To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made. Once you visualized the data as a graph(the graph file has attached as PNG file), you will find each character of channels.<br>
+To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made. Once you visualized the data as a graph(the graph file has attached as PNG file), you will find each character of channels.</br>
 
-<img src="day1_retention.png" width="400"><br>
+<img src="day1_retention.png" width="400"></br>
 KPI Option1 : day1_retention
-As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization.<br>
+As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization.</br>
 
-<img src="nru.png" width="400"><br>
+<img src="nru.png" width="400"></br>
 KPI Option 2 : NRU(New Registered Users)
 You could see the Channel A, B were not following KPI #2(nru below 30%). On the other hand, the channel C, D, E, F, and G are satisfied the KPI so that they need to be optimization.
 
 # Conclusion
-<img src="Total_install_pie.png" width="400"> <img src="Total_install.png" width="400"><br>
+<img src="Total_install_pie.png" width="400"> <img src="Total_install.png" width="400"></br>
 Except for channel A, other channels B, C, D, E, F, and G are needed to be optimized following the KPI. It's around 76.7% of total installs. 
 (Total_install_pie.png) In order to reduce this ratio, you would be better channel G with the most installs (number of cases) will be optimized first, followed by channels F, D, E, B, and C in order.
 
