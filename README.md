@@ -5,7 +5,7 @@ It's the raw data of iOS game app. It's included postback events which in-app ga
 Python, Linux, Hadoop, SQL, and MySQL
 
 # Description of data
-=====KPI=====</br>
+=====Mission=====</br>
 Optimize the app following the KPI</br>
 (1)day1 retention rate below 10%</br>
 (2)nru(new registered users) below 30%</br>
