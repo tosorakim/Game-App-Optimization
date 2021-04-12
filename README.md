@@ -59,12 +59,14 @@ day1_retention: day 1 retention rate</br>
 
 # Exploratory Analysis
 To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made. Once you visualized the data as a graph(the graph file has attached as PNG file), you will find each character of channels.
-<img src="d1.png" width="400"><br>
+
+<img src="day1_retention.png" width="400"><br>
 KPI Option1 : day1_retention
-As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization
-<img src="nrue.png" width="400"><br>
+As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization.
+
+<img src="nru.png" width="400"><br>
 KPI Option 2 : NRU(New Registered Users)
-You could see the Channel A, B were not following KPI #2(nru below 30%). On the other hand, the channel C, D, E, F, and G are satisfied the KPI so that they need to be optimization
+You could see the Channel A, B were not following KPI #2(nru below 30%). On the other hand, the channel C, D, E, F, and G are satisfied the KPI so that they need to be optimization.
 
 # Conclusion
 <img src="Total_install_pie.png" width="400"> <img src="Total_install.png" width="400"><br>
