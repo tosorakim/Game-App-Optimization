@@ -58,11 +58,11 @@ afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 ra
 day1_retention: day 1 retention rate</br>
 
 # Exploratory Analysis
-To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made. Once you visualized the data as a graph(the graph file has attached as PNG file), you will find each character of channels.
+To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made. Once you visualized the data as a graph(the graph file has attached as PNG file), you will find each character of channels.<br>
 
 <img src="day1_retention.png" width="400"><br>
 KPI Option1 : day1_retention
-As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization.
+As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization.<br>
 
 <img src="nru.png" width="400"><br>
 KPI Option 2 : NRU(New Registered Users)
