@@ -23,9 +23,12 @@ open: app open</br>
 afcompleteregistration: registration</br>
 jointheguild: join the guild</br>
 purchase: purchase</br>
-aflevel5achieved: achieved level 5 aflevel8achieved: achieved level 8</br>
-aflevel10achieved: achieved level 10 aflevel15achieved: achieved level 15</br>
-aflevel20achieved: achieved level 20 autoplay : after level5, it’s allowed autoplay</br>
+aflevel5achieved: achieved level 5 </br>
+aflevel8achieved: achieved level 8</br>
+aflevel10achieved: achieved level 10</br>
+aflevel15achieved: achieved level 15</br>
+aflevel20achieved: achieved level 20</br>
+autoplay : after level5, it’s allowed autoplay</br>
 </br>
 =====Collect data(.csv file)=====</br>
 Raw data</br>
