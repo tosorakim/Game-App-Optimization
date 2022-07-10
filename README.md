@@ -54,7 +54,10 @@ install: counted installs</br>
 afcompleteregistration: once a user completed the registration it's pushed(counted)</br>
 aflevel5achieved: achieved level5</br>
 aflevel8achieved: achieved level8</br>
-afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 rate purchaserate: purchase rate</br>
+afpurchase day1: purchase</br>
+nru: new registered user rate</br>
+Lv5: achieved level 5 rate</br>
+purchaserate: purchase rate</br>
 day1_retention: day 1 retention rate</br>
 
 # Exploratory Analysis
