@@ -1,5 +1,5 @@
 # Introduction
-It's the raw data of iOS game app. It's included postback events which in-app game environment.
+It's the raw data of the iOS game app. It's included event postback which is an in-app game environment.
 
 # Environment
 Python, Linux, Hadoop, SQL, and MySQL
@@ -18,7 +18,7 @@ Language: Korean</br>
 Age: 12+</br>
 Price: Free</br>
 </br>
-[Information of Event Postback]</br>
+[Information on Event Postback]</br>
 open: app open</br>
 afcompleteregistration: registration</br>
 jointheguild: join the guild</br>
