@@ -30,12 +30,12 @@ aflevel15achieved: achieved level 15</br>
 aflevel20achieved: achieved level 20</br>
 autoplay : after level5, it’s allowed autoplay</br>
 </br>
-=====Collect data(.csv file)=====</br>
-Raw data</br>
+
+Collect data(aka.raw data</br>
 (1)channel_event.csv</br>
 (2)d1.csv</br>
 </br>
-Pivoting data (using raw data)</br>
+Pivoting data using Collect Data</br>
 (1)gagong.csv</br>
 </br>
 [Information on channel_event.csv]</br>
