@@ -31,7 +31,7 @@ aflevel20achieved: achieved level 20</br>
 autoplay : after level5, it’s allowed autoplay</br>
 </br>
 
-Collect data(aka.raw data</br>
+Collect data(aka.raw data)</br>
 (1)channel_event.csv</br>
 (2)d1.csv</br>
 </br>
