@@ -38,7 +38,7 @@ Raw data</br>
 Pivoting data (using raw data)</br>
 (1)gagong.csv</br>
 </br>
-[Information of channel_event.csv]</br>
+[Information on channel_event.csv]</br>
 event: postbacked event name</br>
 channel: channel name</br>
 country: country</br>
@@ -46,12 +46,12 @@ language: language</br>
 os: mobile phone operating system</br>
 device: mobile device</br>
 </br>
-[Information of d1.csv]</br>
+[Information on d1.csv]</br>
 channel: channel name</br>
 install: counted installs</br>
 day1: day 1 retention</br>
 </br>
-[Information of gagong.csv]</br>
+[Information on gagong.csv]</br>
 channel: channel name</br>
 install: counted installs</br>
 afcompleteregistration: once a user completed the registration it's pushed(counted)</br>
