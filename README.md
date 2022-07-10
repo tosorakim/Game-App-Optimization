@@ -6,7 +6,7 @@ Python, Linux, Hadoop, SQL, and MySQL
 
 # Description of data
 =====Mission=====</br>
-Optimize the app following the KPI</br>
+Optimize an app following the KPI</br>
 (1)day1 retention rate below 10%</br>
 (2)nru(new registered users) below 30%</br>
 </br>
