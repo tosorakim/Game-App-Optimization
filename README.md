@@ -58,15 +58,15 @@ afpurchase day1: purchase nru: new registered user rate Lv5: achieved level 5 ra
 day1_retention: day 1 retention rate</br>
 
 # Exploratory Analysis
-To begin this exploratory analysis, first import libraries and define functions for plotting the data using matplotlib. Depending on the data, not all plots will be made. Once you visualized the data as a graph(the graph file has attached as PNG file), you will find each character of channels.</br>
+To begin this exploratory analysis, first import libraries and define functions for plotting the data using Matplotlib. Depending on the data, not all plots will be made. Once you visualize the data as a graph(the graph file has attached as a PNG file), you will find each character of the channel.</br>
 
 <img src="day1_retention.png" width="400"></br>
-KPI Option1 : day1_retention
-As you analyzed the data, you could see the Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, the channel B, G are satisfied the KPI so that they need to be optimization.</br>
+KPI Option1: day1_retention.
+As you analyzed the data, you could see that Channel A, C, D, E, and F were not following KPI #1(day1 RR below 10%). On the other hand, channels B, and G are satisfied with the KPI so they need to be optimized.</br>
 
 <img src="nru.png" width="400"></br>
-KPI Option 2 : NRU(New Registered Users)
-You could see the Channel A, B were not following KPI #2(nru below 30%). On the other hand, the channel C, D, E, F, and G are satisfied the KPI so that they need to be optimization.
+KPI Option 2: NRU(New Registered Users).
+You could see that Channel A, and B were not following KPI #2(nru below 30%). On the other hand, channels C, D, E, F, and G are satisfied with the KPI so they need to be optimized.
 
 # Conclusion
 <img src="Total_install_pie.png" width="400"> <img src="Total_install.png" width="400"></br>
